@@ -1,0 +1,24 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+sympy
+
+jupyterlab
+notebook
+ipykernel
+
+
+#plotly
+
+# Opcional (si necesitas visión/imagen)
+# pillow
+# opencv-python
+
+# Opcional (si necesitas deep learning; ojo que instala pesado)
+# torch
+# torchvision
+# torchaudio
